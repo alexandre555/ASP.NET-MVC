@@ -1,0 +1,39 @@
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\appsettings.Development.json
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\appsettings.json
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\Projeto ASPNET.exe
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\Projeto ASPNET.deps.json
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\Projeto ASPNET.runtimeconfig.json
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\Projeto ASPNET.runtimeconfig.dev.json
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\Projeto ASPNET.dll
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\ref\Projeto ASPNET.dll
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\Projeto ASPNET.pdb
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\Projeto ASPNET.Views.dll
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\bin\Debug\net5.0\Projeto ASPNET.Views.pdb
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.csproj.AssemblyReference.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.AssemblyInfoInputs.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.AssemblyInfo.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.csproj.CoreCompileInputs.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.MvcApplicationPartsAssemblyInfo.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.RazorAssemblyInfo.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.RazorAssemblyInfo.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\scopedcss\bundle\Projeto ASPNET.styles.css
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\staticwebassets\Projeto ASPNET.StaticWebAssets.Manifest.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.TagHelpers.input.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.TagHelpers.output.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.RazorCoreGenerate.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.RazorTargetAssemblyInfo.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.RazorTargetAssemblyInfo.cs
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.Views.pdb
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.dll
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\ref\Projeto ASPNET.dll
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.pdb
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.genruntimeconfig.cache
+F:\Programação\repos\Projeto ASPNET\Projeto ASPNET\obj\Debug\net5.0\Projeto ASPNET.csproj.CopyComplete
