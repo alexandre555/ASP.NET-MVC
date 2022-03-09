@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+aEOkPSMEiVhCcpQOthGYB325WwPmw59GMd7ojGy7+eT26wX9R4seX+zyoPLGz6Kkt1etyjsDYL05SPYVg4VQg==",
+  "dgSpecHash": "khfUgdmKYgr5T9Y2FA7jnBAxLf1BhhYaZCsJwYXQjdbvdu8KnMdJTF/6P8jPNmr30D8/lxwemIeODmi2Y/yg9g==",
   "success": true,
-  "projectFilePath": "F:\\Programação\\repos\\Projeto ASPNET\\Projeto ASPNET\\Projeto ASPNET.csproj",
+  "projectFilePath": "F:\\Programação\\repos\\Projeto ASPNET2\\Projeto ASPNET2\\Projeto ASPNET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AleSantos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
