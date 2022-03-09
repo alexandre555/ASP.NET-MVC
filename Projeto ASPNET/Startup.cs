@@ -25,10 +25,12 @@ namespace Projeto_ASPNET
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var dbConnectionString = Configuration.GetConnectionString("Projeto_ASPNETContext");
             services.AddControllersWithViews();
-
-            services.AddDbContext<Projeto_ASPNETContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("Projeto_ASPNETContext")));
+            services.AddDbContext<Projeto_ASPNETContext>(options => options.UseMySql(dbConnectionString, ServerVersion.AutoDetect(dbConnectionString)));//builder => builder.MigrationsAssembly("Projeto_ASPNET"),));
+            //options.UseSqlServer(Configuration.GetConnectionString("Projeto_ASPNETContext"));
+            //Configuration.GetConnectionString("Projeto_ASPNETContext"), builder => builder.MigrationsAssembly("Projeto_ASPNET")));
+            //options.UseSqlServer(Configuration.GetConnectionString("Projeto_ASPNETContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
