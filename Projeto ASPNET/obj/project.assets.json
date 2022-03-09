@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programação\\repos\\Projeto ASPNET2\\Projeto ASPNET2\\Projeto ASPNET.csproj",
+      "projectUniqueName": "F:\\Programação\\repos\\Projeto ASPNET\\Projeto ASPNET\\Projeto ASPNET.csproj",
       "projectName": "Projeto ASPNET",
-      "projectPath": "F:\\Programação\\repos\\Projeto ASPNET2\\Projeto ASPNET2\\Projeto ASPNET.csproj",
+      "projectPath": "F:\\Programação\\repos\\Projeto ASPNET\\Projeto ASPNET\\Projeto ASPNET.csproj",
       "packagesPath": "C:\\Users\\AleSantos\\.nuget\\packages\\",
-      "outputPath": "F:\\Programação\\repos\\Projeto ASPNET2\\Projeto ASPNET2\\obj\\",
+      "outputPath": "F:\\Programação\\repos\\Projeto ASPNET\\Projeto ASPNET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
